@@ -1,0 +1,1 @@
+print(list(filter(bool,range(3))))
